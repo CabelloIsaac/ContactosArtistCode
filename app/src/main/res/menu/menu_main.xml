@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.artistcode.contactos.MainActivity">
+    <item
+        android:id="@+id/action_eliminar_todo"
+        android:orderInCategory="100"
+        android:title="@string/eliminar_todo"
+        app:showAsAction="never" />
+</menu>
